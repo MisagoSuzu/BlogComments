@@ -1,0 +1,9 @@
+{
+  "origins": [
+    "https://misagosuzu.de",
+    "http://localhost/"
+  ],
+  "originsRegex": [
+  ],
+  "defaultCommentOrder": "newest"
+}
