@@ -1,6 +1,7 @@
 {
   "origins": [
     "https://misagosuzu.de",
+    "https://giscus.app",
     "http://localhost"
   ],
   "originsRegex": [
