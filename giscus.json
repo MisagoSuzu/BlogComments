@@ -1,7 +1,7 @@
 {
   "origins": [
     "https://misagosuzu.de",
-    "http://localhost/"
+    "http://localhost"
   ],
   "originsRegex": [
   ],
